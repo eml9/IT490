@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<form   action = "ptype3.php"  method = "get" >
+
+<input  type = text   name = "admin"     >Enter admin name<br>
+<input  type = text   name = "user"      >Enter user name<br>
+<input  type = text   name = "password"  >Enter password<br><br>
+
+
+Check  for email copy
+<input  type = checkbox   name = "emailrequest"   ><br><br>
+
+<input  type = submit>
+
+</form>
+ 
